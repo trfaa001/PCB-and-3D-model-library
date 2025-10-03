@@ -1,0 +1,9 @@
+2025-10-03 16:09:19,235 - panelizer_logger - ERROR - 
+START: 2025-10-03T16:09:17.417550
+Board saved by user.
+Zones filled by Panelizer.
+
+Board: D:\Github\PCB-and-3D-model-libraru\Kicad\DIP8breakout+potToUSB\Production\DIP8breakout+potToUSB_panelized.kicad_pcb
+Board dimensions: 74.50 x 32.00 mm.
+Panel size is too small for board. Quitting.
+

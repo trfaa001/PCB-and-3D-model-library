@@ -1000,6 +1000,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "DIP-8\nHERE!"
+		(at 137 70 0)
+		(layer "F.SilkS")
+		(uuid "4a56ab73-b80d-4cd0-a539-0c5ae532cc7d")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "3"
 		(at 129.6 69 0)
 		(layer "F.SilkS")
@@ -1048,14 +1060,98 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "DIP-8\nHERE!"
-		(at 137 70 0)
-		(layer "Edge.Cuts")
-		(uuid "4a56ab73-b80d-4cd0-a539-0c5ae532cc7d")
+	(gr_text "7"
+		(at 153.5 66.5 0)
+		(layer "B.SilkS")
+		(uuid "13eb3cd3-7012-4cf2-9e50-5fc554e3e889")
 		(effects
 			(font
-				(size 2 2)
-				(thickness 0.25)
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "6"
+		(at 153.5 69 0)
+		(layer "B.SilkS")
+		(uuid "36268cc8-de2d-4d36-b21e-124bc61e9ec5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "3"
+		(at 129.7 69 0)
+		(layer "B.SilkS")
+		(uuid "376bc68d-9f99-4e5b-a4f7-18edfa2b2911")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5"
+		(at 153.5 71.5 0)
+		(layer "B.SilkS")
+		(uuid "714961ce-1da3-4b29-b641-608b1b2fb4cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1"
+		(at 129.7 64 0)
+		(layer "B.SilkS")
+		(uuid "79eee9a9-d5b3-470c-8823-9fa61078f48c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "4"
+		(at 129.7 71.5 0)
+		(layer "B.SilkS")
+		(uuid "bfb80729-f339-4722-995f-8c0d8653ea8b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "8"
+		(at 153.5 64 0)
+		(layer "B.SilkS")
+		(uuid "d401198b-1727-4d32-995a-80ac33532d57")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "2"
+		(at 129.7 66.5 0)
+		(layer "B.SilkS")
+		(uuid "e58bc740-f14d-45d7-9e89-6553ba24cdfe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
