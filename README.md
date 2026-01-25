@@ -3,10 +3,9 @@ A portfolio of small PCB designs, schematics and 3D models that are too minor to
 
 ### PCB / Electrical Projects
 - [DIP-8 breakout board](/PCB/Kicad/DIP8%20breakout/README.md) (soldering unfinished)
-- [OV-imponator power circuit](/PCB\Kicad\imponatorPower/README.md) (untested)
+- [OV-imponator power circuit](/PCB/Kicad/imponatorPower/README.md) (untested)
 
 ### 3D design/printing projects
--
 
 ## Folder structure
 - "/PCB/" - PCB project files, schematics
