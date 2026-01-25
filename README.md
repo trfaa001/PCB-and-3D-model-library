@@ -7,7 +7,7 @@ A portfolio of small PCB designs, schematics and 3D models that are too minor to
 
 ### 3D design/printing projects
 #### Related to sim racing
-- [Motor table clamp](/3D/Kicad/imponatorPower/README.md) (untested)
+- [Motor table clamp](/3D/Kicad/imponatorPower/README.md)
 
 ## Folder structure
 - "/PCB/" - PCB project files, schematics
