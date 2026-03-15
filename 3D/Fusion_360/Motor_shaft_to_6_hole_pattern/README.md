@@ -12,7 +12,8 @@ hinder cables getting stuck in the screws.
 
 ## Physical image
 
-The inner part is printed in PC and the outer in PLA.
+#### The inner part is printed in PC and the outer in PLA.
+
 <img src="physical.jpg" width="500">
 <img src="physical2.jpg" width="500">
 
