@@ -5,7 +5,7 @@ Click on any hyperlink to view images, renders and CAD files for specified item.
 
 ### PCB / Electrical Projects
 - [DIP-8 breakout board](/PCB/Kicad/DIP8%20breakout/README.md) (soldering unfinished)
-- [OV-imponator power circuit](/PCB/Kicad/imponatorPower/README.md) (untested)
+- [OV-imponator power circuit](/PCB/Kicad/imponatorPower/README.md)
 
 ### 3D design/printing projects
 #### Related to sim racing

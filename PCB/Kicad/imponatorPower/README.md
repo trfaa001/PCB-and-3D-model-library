@@ -8,9 +8,9 @@ N.B. Some of the LEDs are misplaced in the design, and will not light up.
 
 ## images
 ### PCB design
-<img src="images/PCB_design.png" width="500">
+<img src="Images/PCB_design.png" width="500">
 
 ## Physical image
 
-<img src="images/Front.jpg" width="500">
-<img src="images/Back.jpg" width="500">
+<img src="Images/Front.jpg" width="500">
+<img src="Images/Back.jpg" width="500">
