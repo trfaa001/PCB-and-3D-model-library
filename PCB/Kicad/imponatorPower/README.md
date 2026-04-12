@@ -1,16 +1,37 @@
-# OV-imponator power circui
+!PADS-POWERPCB-V9.5-METRIC! DESIGN DATABASE ASCII FILE 1.0
+*PARTDECAL*  ITEMS
 
-<!-- Project description -->
-A small circuit able to charge a AA NimH battery with USB PD and deliver 5V power to an external device. I was really dissatisfied with the cost and feature set. I will probably make a new design with more budget friendly components and more customizable features.
-
-N.B. Some of the LEDs are misplaced in the design, and will not light up. 
-
-
-## images
-### PCB design
-<img src="Images/PCB_design.png" width="500">
-
-## Physical image
-
-<img src="Images/Front.jpg" width="500">
-<img src="Images/Back.jpg" width="500">
+QFN50P400X400X80-25N-D M 0 0 28 25 2 0 2
+CLOSED 5 0.05 0 20
+-2.625 2.625
+2.625 2.625
+2.625 -2.625
+-2.625 -2.625
+-2.625 2.625
+CLOSED 5 0.1 0 27
+-2 2
+2 2
+2 -2
+-2 -2
+-2 2
+OPEN 2 0.1 0 27
+-2 1.5
+-1.5 2
+CIRCLE 2 0.25 0 26
+-2.275 2
+-2.525 2
+COPCLS 5 0.01 0 1 0
+-2.4 1.4
+-1.75 1.4 900 -1800 -1.9 1.1 -1.6 1.4
+-1.75 1.1
+-2.4 1.1
+-2.4 1.4
+COPCLS 5 0.01 0 1 1
+-2.4 0.9
+-1.75 0.9 900 -1800 -1.9 0.6 -1.6 0.9
+-1.75 0.6
+-2.4 0.6
+-2.4 0.9
+COPCLS 5 0.01 0 1 2
+-2.4 0.4
+-1.75 0.4 900 -1800 

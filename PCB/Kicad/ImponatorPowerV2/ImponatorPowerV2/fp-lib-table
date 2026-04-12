@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Custom")(type "KiCad")(uri "/mnt/data/Github/PCB-and-3D-model-library/PCB/Kicad/ImponatorPowerV2/ImportedComponents/Custom.pretty")(options "")(descr ""))
+)

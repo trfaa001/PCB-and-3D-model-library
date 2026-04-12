@@ -1,0 +1,194 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PTA2043-2015CPB103"
+   (description "10 kOhms 0.1W, 1/10W Through Hole Slide Potentiometer Top Adjustment Type")
+   (family "ANA")
+   (package "PTA20432015CPB103")
+   (attribute "Datasheet Link" "https://www.bourns.com/docs/Product-Datasheets/pta.pdf")
+   (attribute "Geometry.Height" "16.9mm")
+   (attribute "Mouser Part Number" "652-PTA20432015CPB10")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTA2043-2015CPB103?qs=U%2FacTlguYxYK7NNmAJCU3g%3D%3D")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "PTA2043-2015CPB103")
+   (gate
+    (symbol "PTA2043-2015CPB103")
+    (pin "CCW" 1 PS)
+    (pin "WIPER" 2 PS)
+    (pin "CW" 3 PS)
+    (pin "MH1" 4 PS)
+    (pin "MH2" 5 PS)
+    (pin "MH3" 6 PS)
+    (pin "MH4" 7 PS)
+   )
+  )
+  (symbol "PTA2043-2015CPB103"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 400) (pt 900 400) (pt 900 -500) (pt 200 -500) (pt 200 400) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 -700) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -700) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PTA20432015CPB103"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.75 2.75)
+      (pt 34.25 2.75)
+      (pt 34.25 -6.25)
+      (pt -0.75 -6.25)
+      (pt -0.75 2.75))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.9 4.775)
+      (pt 35.4 4.775)
+      (pt 35.4 -8.275)
+      (pt -1.9 -8.275)
+      (pt -1.9 4.775))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2.75 2.75)
+      (pt -0.75 2.75)
+      (pt -0.75 1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.75 -6.25)
+      (pt -0.75 -6.25)
+      (pt -0.75 -4.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 5.75 -6.25)
+      (pt 27.75 -6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 26.25 2.75)
+      (pt 7.25 2.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 30.25 2.75)
+      (pt 34.25 2.75)
+      (pt 34.25 1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 34.25 -1.25)
+      (pt 34.25 -6.25)
+      (pt 31.25 -6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 0)
+      (arc (pt -1.500 0.000) (pt -1.500 -0.050) (pt -1.400 0.050) (start 180.0) (sweep 180.0))
+      (pt -1.4 0)
+      (arc (pt -1.400 0.000) (pt -1.500 -0.050) (pt -1.400 0.050) (start 180.0) (sweep .0))
+      (pt -1.5 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 0.000 -3.500) (padstack 2))
+   (leg 3 (pt 33.500 0.000) (padstack 3))
+   (leg 4 (pt 5.350 2.500) (padstack 0))
+   (leg 5 (pt 28.150 2.500) (padstack 0))
+   (leg 6 (pt 4.150 -6.000) (padstack 0))
+   (leg 7 (pt 29.350 -6.000) (padstack 0))
+   (padstack 0
+    (hole 1.7)
+    (plated true)
+    (pad (layer TCOP) (round 2.550))
+    (pad (layer INNER) (round 2.550))
+    (pad (layer BCOP) (round 2.550))
+   )
+   (padstack 1
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (square 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (square 1.800))
+   )
+   (padstack 2
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (padstack 3
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (model "PTA2043-2015CPB103.stp"
+    (euler 0 0 0)
+    (offset 16.75 -1.75 1.1200000047683716)
+   )
+  )
+ )
+)

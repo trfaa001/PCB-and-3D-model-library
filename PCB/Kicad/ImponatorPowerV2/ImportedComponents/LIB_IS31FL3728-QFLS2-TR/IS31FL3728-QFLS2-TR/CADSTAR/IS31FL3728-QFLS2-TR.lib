@@ -1,0 +1,18 @@
+.IS31FL3728-QFLS2-TR :1 ;LED Display Drivers Audio Mod Matrix LED Driver
+QFN50P400X400X80-25N-D
+*STM IC
+*NGS
+*PLB 1="SDA" 2="SCL" 3="SDB" 4="IN" 5="C_FILT" 6="AD" 7="R1" 8="R2" 9="R3" 10="R4" 11="VCC" 12="R5" 13="R6/C11" 14="R7/C10" 15="R8/C9" 16="C8" 17="C7" 18="C6" 19="C5" 20="GND" 21="C4" 22="C3" 23="C2" 24="C1" 25="EP"
+*MXP 25
+*DFN IS31FL3728-QFLS2-TR
+~!Manufacturer_Name (Lumissil Microsystems)
+~!Manufacturer_Part_Number (IS31FL3728-QFLS2-TR)
+~!Mouser Part Number (870-IS31FL3728QFLS2R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lumissil/IS31FL3728-QFLS2-TR?qs=eyrSuY1LhL1XH7a1d6mV0Q%3D%3D)
+~!Arrow Part Number (IS31FL3728-QFLS2-TR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/is31fl3728-qfls2-tr/integrated-silicon-solution-inc?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.lumissil.com/assets/pdf/core/IS31FL3728_DS.pdf)
+~!Height (0.8mm)
+~!3D_Model (IS31FL3728-QFLS2-TR)
+IS31FL3728-QFLS2-TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

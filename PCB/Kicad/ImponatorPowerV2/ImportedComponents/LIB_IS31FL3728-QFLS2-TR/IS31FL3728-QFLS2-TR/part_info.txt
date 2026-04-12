@@ -1,0 +1,9 @@
+Manufacturer=Lumissil Microsystems
+PartNumber=IS31FL3728-QFLS2-TR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=1.1
+Released=2024-07-24 09:45:22
+Downloaded=2026-04-06 23:26:01
+3D=Y
