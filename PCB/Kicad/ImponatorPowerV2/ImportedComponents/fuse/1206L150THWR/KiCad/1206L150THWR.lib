@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1206L150THWR
+#/896985/1841196/2.50/2/4/Resettable Fuse
+DEF 1206L150THWR F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "1206L150THWR" 550 150 50 H V L CNN
+F2 "FUSC3216X100N" 550 50 50 H I L CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf" 550 -50 50 H I L CNN
+F4 "Littelfuse Surface Mount Fuse, 8V dc" 550 -150 50 H I L CNN "Description"
+F5 "1" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "Farnell Part Number"
+F7 "" 550 -450 50 H I L CNN "Farnell Price/Stock"
+F8 "LITTELFUSE" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "1206L150THWR" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 4 0 1 6 220 -80 280 -80 420 80 480 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

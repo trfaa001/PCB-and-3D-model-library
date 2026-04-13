@@ -1433,6 +1433,28 @@
 			)
 		)
 	)
+	(global_label "3VBat_current"
+		(shape input)
+		(at 139.7 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "97a66212-6a10-4b6e-911a-3b984930b362")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 123.5311 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_current"
 		(shape input)
 		(at 168.91 78.74 0)

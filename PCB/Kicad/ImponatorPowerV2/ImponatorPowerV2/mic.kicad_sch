@@ -809,131 +809,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+3.3V"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+3.3V"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+3.3V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+3.3V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers
@@ -1162,22 +1037,16 @@
 		)
 	)
 	(junction
-		(at 154.94 87.63)
+		(at 167.64 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0486323a-702a-4b53-8ef9-cd88c00d233c")
+		(uuid "38586404-b645-48ca-8619-025cfc31b093")
 	)
 	(junction
 		(at 60.96 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69593177-88d9-40bd-b68f-d3af0fa32be8")
-	)
-	(junction
-		(at 167.64 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7ba2efe8-196f-4f53-be32-3cc581d5c307")
 	)
 	(junction
 		(at 60.96 87.63)
@@ -1190,12 +1059,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5526fd4-1d22-4fcc-875e-57ee8cba4e26")
-	)
-	(junction
-		(at 154.94 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b5c71a21-9b75-4cdd-837c-a35d7d489d3a")
 	)
 	(junction
 		(at 167.64 99.06)
@@ -1214,6 +1077,16 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef03360b-1075-4870-a68f-f9b46e9c2e32")
+	)
+	(wire
+		(pts
+			(xy 154.94 90.17) (xy 167.64 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "085ae408-e315-421a-9034-1f8703a34cf0")
 	)
 	(wire
 		(pts
@@ -1247,16 +1120,6 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 90.17) (xy 167.64 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ee96d00-e0e1-43ca-b3cd-4fdeea2357b2")
-	)
-	(wire
-		(pts
 			(xy 167.64 90.17) (xy 167.64 91.44)
 		)
 		(stroke
@@ -1284,16 +1147,6 @@
 			(type default)
 		)
 		(uuid "7be9fb3d-5b1f-49ea-bd3e-9558ed68f8bc")
-	)
-	(wire
-		(pts
-			(xy 154.94 87.63) (xy 154.94 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80fb4ac9-453c-4514-8e91-5361266787c6")
 	)
 	(wire
 		(pts
@@ -2539,72 +2392,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 77.47 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a7762609-8bb2-4f86-b251-7f09e97bf417")
-		(property "Reference" "#PWR04"
-			(at 77.47 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 77.47 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 77.47 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 77.47 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb82fa29-92b5-4b5d-9325-d0547e421acd")
-		)
-		(instances
-			(project "ImponatorPowerV2"
-				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5/a63d0856-d180-4795-9e0d-9fe5ece1cfcc"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 58.42 92.71 0)
 		(unit 1)
@@ -2735,6 +2522,72 @@
 			(project "ImponatorPowerV2"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5/a63d0856-d180-4795-9e0d-9fe5ece1cfcc"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 77.47 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "daf52bbe-0534-4e69-8f14-73d74898e5ce")
+		(property "Reference" "#PWR04"
+			(at 77.47 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3Bat"
+			(at 77.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ae202c0d-0600-4efa-bb5b-d7154fad46e7")
+		)
+		(instances
+			(project "ImponatorPowerV2"
+				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5/a63d0856-d180-4795-9e0d-9fe5ece1cfcc"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)

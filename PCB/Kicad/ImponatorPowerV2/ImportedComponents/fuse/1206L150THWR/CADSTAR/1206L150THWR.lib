@@ -1,0 +1,16 @@
+.1206L150THWR :1 ;Littelfuse Surface Mount Fuse, 8V dc
+FUSC3216X100N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 1206L150THWR
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (1206L150THWR)
+~!Link Datasheet (http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf)
+~!Height (1mm)
+~!3D_Model (1206L150THWR)
+"1206L150THWR"
+1.1!U 2.1!U 

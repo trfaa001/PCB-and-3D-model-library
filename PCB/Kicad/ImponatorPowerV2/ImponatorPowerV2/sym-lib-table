@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "Imported")(type "KiCad")(uri "/mnt/data/Github/PCB-and-3D-model-library/PCB/Kicad/ImponatorPowerV2/ImportedComponents/Imported.kicad_sym")(options "")(descr ""))
+  (lib (name "imported2")(type "KiCad")(uri "${KIPRJMOD}/imported2.kicad_sym")(options "")(descr ""))
 )

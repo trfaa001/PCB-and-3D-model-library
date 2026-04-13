@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=1206L150THWR
+PartCategory=Resettable Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=4.1
+Released=2016-03-09 07:32:00
+Downloaded=2026-04-12 22:18:03
+3D=Y
