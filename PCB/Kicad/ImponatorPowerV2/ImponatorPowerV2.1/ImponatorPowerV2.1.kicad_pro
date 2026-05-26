@@ -52,8 +52,8 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_radius": 1.0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
@@ -63,7 +63,7 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -81,7 +81,28 @@
           "width": 0.15
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|178504685|78462515|cb9a0bac-c998-4ebc-8831-7bd57e0f5e9e|3b476d72-bad5-437a-b3f4-3a6bfe79e94c",
+          ""
+        ],
+        [
+          "copper_edge_clearance|178504685|88212515|57514862-5648-4826-84ac-75c78e9deba8|1cbceb79-0e21-4e34-b54b-786641b26138",
+          ""
+        ],
+        [
+          "invalid_outline|176444685|89087515|f95dedf9-1151-460a-939f-a1daa56f8359|4dbda1a5-fa68-42ed-933a-4e64562f1af0",
+          ""
+        ],
+        [
+          "malformed_courtyard|239945901|50660399|26d6da86-5638-437a-b1b6-2b2527f177ef|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|242054101|50660399|26d6da86-5638-437a-b1b6-2b2527f177ef|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -113,7 +134,7 @@
         "length_out_of_range": "error",
         "lib_footprint_issues": "ignore",
         "lib_footprint_mismatch": "ignore",
-        "malformed_courtyard": "error",
+        "malformed_courtyard": "warning",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
         "missing_courtyard": "ignore",
@@ -260,20 +281,16 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.2,
-          "drill": 0.1
+          "diameter": 0.4,
+          "drill": 0.3
         },
         {
-          "diameter": 0.4,
+          "diameter": 0.45,
           "drill": 0.3
         },
         {
           "diameter": 0.5,
           "drill": 0.3
-        },
-        {
-          "diameter": 3.0,
-          "drill": 0.2
         }
       ],
       "zones_allow_external_fillets": false
@@ -566,8 +583,8 @@
       },
       {
         "clearance": 0.178,
-        "diff_pair_gap": 0.178,
-        "diff_pair_width": 0.15,
+        "diff_pair_gap": 0.125,
+        "diff_pair_width": 0.2,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "usb",
@@ -910,7 +927,7 @@
   "sheets": [
     [
       "39f9a456-0dc1-46da-8595-29035f4abc44",
-      "ImponatorPowerV2"
+      "ImponatorPowerV2.1"
     ],
     [
       "231429c5-60f0-49da-81f5-258794b3ed5c",

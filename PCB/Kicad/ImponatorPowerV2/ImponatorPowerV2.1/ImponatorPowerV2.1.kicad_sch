@@ -585,7 +585,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(reference "H1")
 					(unit 1)
@@ -667,7 +667,7 @@
 			(uuid "888487c9-95af-41ff-a098-c45f24eba6a7")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(reference "J2")
 					(unit 1)
@@ -746,7 +746,7 @@
 			(uuid "41a97ef1-cfb9-4826-863b-3273c0f9a275")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(reference "#PWR085")
 					(unit 1)
@@ -825,7 +825,7 @@
 			(uuid "dfbaaf60-85e3-42ad-a46f-6aa8b784d21f")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(reference "#PWR086")
 					(unit 1)
@@ -901,7 +901,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(reference "H2")
 					(unit 1)
@@ -948,7 +948,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(page "4")
 				)
@@ -994,7 +994,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(page "2")
 				)
@@ -1040,7 +1040,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44"
 					(page "3")
 				)

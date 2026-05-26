@@ -2223,7 +2223,7 @@
 			(uuid "ec283f2f-4892-4436-bc7f-e3faf6c6d1a3")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "#PWR015")
 					(unit 1)
@@ -2275,7 +2275,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "MCP73831T-2ACI/OT"
+		(property "Datasheet" "https://docs.rs-online.com/6a41/0900766b814f3cb1.pdf"
 			(at 44.45 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -2314,7 +2314,7 @@
 			(uuid "3cc0af0a-4d5b-4ded-8b45-40194848bd66")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "U6")
 					(unit 1)
@@ -2392,7 +2392,7 @@
 			(uuid "d639b3e3-7efe-4498-a7f6-113b040e09ef")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "#PWR017")
 					(unit 1)
@@ -2533,7 +2533,7 @@
 			(uuid "ed473697-14a4-4607-9d3e-d967414af040")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "BT2")
 					(unit 1)
@@ -2615,7 +2615,7 @@
 			(uuid "43642844-5970-451d-8532-a60b393d7c23")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "C7")
 					(unit 1)
@@ -2695,7 +2695,7 @@
 			(uuid "aedee0a2-cd7c-451b-af06-7aa3f36a9e09")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "R10")
 					(unit 1)
@@ -2779,7 +2779,7 @@
 			(uuid "9430f3da-26f3-43b6-b49e-9eae390341ba")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "LED1")
 					(unit 1)
@@ -2861,7 +2861,7 @@
 			(uuid "9eb50315-fdc5-4c25-b9d9-c2c9ccab7750")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "R9")
 					(unit 1)
@@ -2939,7 +2939,7 @@
 			(uuid "4b6a163d-8a4e-401b-a796-d46952965665")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "#PWR018")
 					(unit 1)
@@ -3083,7 +3083,7 @@
 			(uuid "00f559ef-d634-4b6b-a07a-7c110bd2dfc7")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "F2")
 					(unit 1)
@@ -3165,7 +3165,7 @@
 			(uuid "9fb4837f-122b-4d31-b7a2-99fd2f916047")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "C6")
 					(unit 1)
@@ -3305,7 +3305,7 @@
 			(uuid "d10d354e-3d5a-4924-a0c5-95fb5ac8ad64")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "BT1")
 					(unit 1)
@@ -3383,7 +3383,7 @@
 			(uuid "1e39cfac-d3d0-44dc-8108-79ed82f6364b")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(reference "#PWR016")
 					(unit 1)
@@ -3430,7 +3430,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/e6bf9f2f-aeba-4f00-a84f-48e9ace68fd3"
 					(page "8")
 				)

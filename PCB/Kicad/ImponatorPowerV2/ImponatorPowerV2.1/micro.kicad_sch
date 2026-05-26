@@ -1652,7 +1652,7 @@
 			(uuid "84e64bed-a0e9-4c1a-a0bb-cdc10a66d05f")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "R23")
 					(unit 1)
@@ -1730,88 +1730,9 @@
 			(uuid "9b6455eb-a037-4b1d-a60b-1de81ac140f5")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 128.27 67.31 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "14ba3f6e-f13f-4d0e-a8a4-afa6b1e74b7b")
-		(property "Reference" "R24"
-			(at 128.27 62.738 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 128.27 65.278 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Custom:RST"
-			(at 128.27 65.532 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 128.27 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7e03431a-7cc7-4016-a471-3d84ad500660")
-		)
-		(pin "1"
-			(uuid "1c2f61e6-6ac6-4ef6-abe3-7aaca52daf75")
-		)
-		(instances
-			(project "ImponatorPowerV2"
-				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
-					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -1887,7 +1808,7 @@
 			(uuid "5e5cbbc5-37b9-4686-b383-a4dc7d145473")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "#PWR047")
 					(unit 1)
@@ -1966,7 +1887,7 @@
 			(uuid "8957d285-7f7c-4a50-969a-911871cc5e3b")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "#PWR030")
 					(unit 1)
@@ -2047,7 +1968,7 @@
 			(uuid "6cdbbe14-4e0b-40eb-89ad-601d0c81a922")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "C10")
 					(unit 1)
@@ -2128,7 +2049,7 @@
 			(uuid "04cf9f9f-65f0-4c97-8c8f-ad42ff43c71d")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "C18")
 					(unit 1)
@@ -2206,7 +2127,7 @@
 			(uuid "18d2c8b5-77a3-4f33-b94e-9f2612c14b02")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "#PWR026")
 					(unit 1)
@@ -2345,7 +2266,7 @@
 			(uuid "03d18da9-e988-45ab-bee1-efdc774b6207")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "U2")
 					(unit 1)
@@ -2423,7 +2344,7 @@
 			(uuid "6f0de238-056c-4a9c-afdf-ab4d8c66db40")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "#PWR025")
 					(unit 1)
@@ -2505,7 +2426,7 @@
 			(uuid "b24de022-9fad-44ca-9138-8c5fdd010912")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "C19")
 					(unit 1)
@@ -2515,7 +2436,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 67.31 270)
+		(at 132.08 67.31 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2526,7 +2447,7 @@
 		(fields_autoplaced yes)
 		(uuid "afa758ec-6830-4ac0-96a1-f04de3dd2e96")
 		(property "Reference" "#PWR052"
-			(at 118.11 67.31 0)
+			(at 125.73 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2537,7 +2458,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 67.3099 90)
+			(at 128.27 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2548,7 +2469,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 67.31 0)
+			(at 132.08 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2559,7 +2480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 67.31 0)
+			(at 132.08 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2570,7 +2491,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 67.31 0)
+			(at 132.08 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2584,7 +2505,7 @@
 			(uuid "a4b4d7c5-46f4-4f51-afb7-ceb0159a8477")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "#PWR052")
 					(unit 1)
@@ -2661,7 +2582,7 @@
 			(uuid "0b490606-8aaf-48b0-889b-01cbdb397a5a")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "#PWR046")
 					(unit 1)
@@ -2743,7 +2664,7 @@
 			(uuid "0bc6a822-ed7a-440b-aaa6-dcddb5d2171c")
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(reference "C11")
 					(unit 1)
@@ -2820,7 +2741,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(page "10")
 				)
@@ -2876,7 +2797,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(page "11")
 				)
@@ -2972,7 +2893,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(page "12")
 				)
@@ -3028,7 +2949,7 @@
 			)
 		)
 		(instances
-			(project "ImponatorPowerV2"
+			(project "ImponatorPowerV2.1"
 				(path "/39f9a456-0dc1-46da-8595-29035f4abc44/0165c1f8-8834-4f35-a624-6b8efab38fa5"
 					(page "13")
 				)
